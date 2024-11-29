@@ -1,0 +1,41 @@
+{
+  "name": "scandit-capacitor-datacapture-id-europe-driving-license",
+  "version": "7.0.0",
+  "description": "Scandit Data Capture SDK for Capacitor",
+  "files": [
+    "android/",
+    "ios",
+    "ScanditCapacitorDatacaptureIdEuropeDrivingLicense.podspec"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scandit/scandit-capacitor-datacapture-id-europe-driving-license.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Scandit/scandit-capacitor-datacapture-id-europe-driving-license/issues"
+  },
+  "keywords": [
+    "capacitor",
+    "plugin",
+    "native"
+  ],
+  "scripts": {
+    "build": "echo 'scandit-capacitor-datacapture-id-europe-driving-license does not have TS files to build'",
+    "lint": "echo 'scandit-capacitor-datacapture-id-europe-driving-license does not have TS files to lint'"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^5.0.0",
+    "@capacitor/core": "^5.0.0",
+    "@capacitor/ios": "^5.0.0"
+  },
+  "capacitor": {
+    "ios": {
+      "src": "ios"
+    },
+    "android": {
+      "src": "android"
+    }
+  }
+}
