@@ -1,6 +1,6 @@
 {
   "name": "scandit-capacitor-datacapture-id-europe-driving-license",
-  "version": "7.1.2",
+  "version": "7.1.3",
   "description": "Scandit Data Capture SDK for Capacitor",
   "files": [
     "android/",
