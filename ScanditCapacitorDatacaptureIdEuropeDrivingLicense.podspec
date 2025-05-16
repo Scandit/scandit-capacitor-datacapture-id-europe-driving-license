@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
   s.swift_version          = '5.7'
 
   s.dependency 'Capacitor'
-  s.dependency 'ScanditIdEuropeDrivingLicense', '= 7.2.2'
+  s.dependency 'ScanditIdEuropeDrivingLicense', '= 7.3.0'
 end
