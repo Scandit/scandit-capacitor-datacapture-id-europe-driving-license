@@ -7,8 +7,8 @@ import com.getcapacitor.annotation.CapacitorPlugin;
 
 @CapacitorPlugin(name = "ScanditIdEuropeDrivingLicenseNative")
 public class ScanditIdEuropeDrivingLicenseNativePlugin extends Plugin {
-    @PluginMethod
-    public void echo(PluginCall call) {
-        call.resolve();
-    }
+  @PluginMethod
+  public void echo(PluginCall call) {
+    call.resolve();
+  }
 }
